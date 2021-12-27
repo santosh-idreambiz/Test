@@ -1,0 +1,39 @@
+date_default_timezone_set("Asia/Kolkata");   
+date('Y-m-d H:i:s');
+
+wget -q https://solid.vistaconnect.com/laravel-8/Admin-API-V1.0/public/api/Test_Cron
+
+"Account_Number": "695501521678",
+"IFSC_Code": "ICIC0006955",
+"Beneficiary_Name": "Adesh Kumar",
+9711990148@icici
+
+Anydesk: 480729444
+
+/dmi/Live_HTML_DontDelete/html/los/app/Http
+/dmi/var_www_html_do_not_delete/los
+	
+Business_Constitution
+Office_Address
+
+https://api.razorpay.com/v1/orders/order_IRqoVuehhlrfjG/payments
+
+https://www.itsolutionstuff.com/post/angular-bar-chart-example-tutorialexample.html
+https://apexcharts.com/angular-chart-demos/column-charts/basic/
+https://codesandbox.io/s/apx-column-basic-bm9dd?from-embed=&file=/src/app/app.module.ts
+https://apexcharts.com/angular-chart-demos/column-charts/column-with-rotated-labels/
+https://stackblitz.com/edit/angular-barchart-example?file=src%2Fapp%2Fbarchart%2Fbarchart.ts
+https://codezup.com/angular-7891011-chart-js-example/
+https://www.encodedna.com/angular/how-to-create-bar-chart-in-angular-4-using-chartjs-and-ng2-charts.htm
+
+NachEMvlts12
+
+LR- Loan Re-structure
+devdmivista
+Belzium@9090
+
+https://welcomeone.dmifinance.in/loan-restructure/?key=Y17s
+
+
+
+
